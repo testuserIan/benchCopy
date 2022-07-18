@@ -1,0 +1,9 @@
+E:\Documentos\copyTest\BenchmarkCLI\obj\x64\Debug\BenchmarkCLI.csproj.AssemblyReference.cache
+E:\Documentos\copyTest\BenchmarkCLI\obj\x64\Debug\BenchmarkCLI.csproj.CoreCompileInputs.cache
+E:\Documentos\copyTest\BenchmarkCLI\bin\x64\Debug\BenchmarkCLI.exe.config
+E:\Documentos\copyTest\BenchmarkCLI\bin\x64\Debug\BenchmarkCLI.exe
+E:\Documentos\copyTest\BenchmarkCLI\bin\x64\Debug\BenchmarkCLI.pdb
+E:\Documentos\copyTest\BenchmarkCLI\bin\x64\Debug\SharpDX.Interop.dll
+E:\Documentos\copyTest\BenchmarkCLI\obj\x64\Debug\BenchmarkCLI.csproj.CopyComplete
+E:\Documentos\copyTest\BenchmarkCLI\obj\x64\Debug\BenchmarkCLI.exe
+E:\Documentos\copyTest\BenchmarkCLI\obj\x64\Debug\BenchmarkCLI.pdb

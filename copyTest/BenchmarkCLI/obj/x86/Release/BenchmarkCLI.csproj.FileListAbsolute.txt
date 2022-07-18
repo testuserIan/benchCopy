@@ -1,0 +1,8 @@
+E:\Documentos\copyTest\BenchmarkCLI\bin\Release\BenchmarkCLI.exe.config
+E:\Documentos\copyTest\BenchmarkCLI\bin\Release\BenchmarkCLI.exe
+E:\Documentos\copyTest\BenchmarkCLI\bin\Release\BenchmarkCLI.pdb
+E:\Documentos\copyTest\BenchmarkCLI\obj\x86\Release\BenchmarkCLI.csproj.AssemblyReference.cache
+E:\Documentos\copyTest\BenchmarkCLI\obj\x86\Release\BenchmarkCLI.csproj.CoreCompileInputs.cache
+E:\Documentos\copyTest\BenchmarkCLI\obj\x86\Release\BenchmarkCLI.csproj.CopyComplete
+E:\Documentos\copyTest\BenchmarkCLI\obj\x86\Release\BenchmarkCLI.exe
+E:\Documentos\copyTest\BenchmarkCLI\obj\x86\Release\BenchmarkCLI.pdb

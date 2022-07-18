@@ -1,0 +1,6 @@
+E:\Documentos\copyTest\GenerateInterop\bin\x64\Release\GenerateInterop.exe
+E:\Documentos\copyTest\GenerateInterop\bin\x64\Release\GenerateInterop.pdb
+E:\Documentos\copyTest\GenerateInterop\obj\x64\Release\GenerateInterop.csproj.AssemblyReference.cache
+E:\Documentos\copyTest\GenerateInterop\obj\x64\Release\GenerateInterop.csproj.CoreCompileInputs.cache
+E:\Documentos\copyTest\GenerateInterop\obj\x64\Release\GenerateInterop.exe
+E:\Documentos\copyTest\GenerateInterop\obj\x64\Release\GenerateInterop.pdb
